@@ -1,0 +1,24 @@
+# Основные пакеты для данных
+numpy
+pandas
+tqdm
+matplotlib
+pydantic
+ocrmypdf
+pymupdf
+sentence-transformers
+
+
+langchain-huggingface
+faiss-cpu
+unstructured
+unstructured[pdf]
+unstructured[image]
+
+
+llama_index
+# Дополнительные инструменты
+Pillow
+fastapi
+pydantic-settings
+uvicorn
